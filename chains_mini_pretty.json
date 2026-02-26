@@ -32252,7 +32252,7 @@
   "faucets": ["https://faucet.pectra-devnet-5.ethpandaops.io"],
   "infoURL": "https://pectra-devnet-5.ethpandaops.io"
 }, {
-  "name": "ONFA Chain Testnet",
+  "name": "ONFA Chain",
   "chainId": 8691942025,
   "shortName": "onfa",
   "networkId": 8691942025,
