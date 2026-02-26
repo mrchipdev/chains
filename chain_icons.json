@@ -6656,8 +6656,8 @@
   "name": "onfachain",
   "icons": [{
     "url": "ipfs://bafkreifla5iikxizhv6vs6yfugnqvssqfqbtlc3lgvylapkasw4sw377uq",
-    "width": 256,
     "height": 256,
+    "width": 256,
     "format": "svg"
   }]
 }, {
