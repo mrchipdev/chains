@@ -53865,8 +53865,8 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "ONFA Chain",
-  "title": "ONFA Chain",
+  "name": "ONFA Chain Testnet",
+  "title": "ONFA Chain Testnet",
   "chain": "onfa",
   "rpc": ["https://rpc.onfa.io", "https://rpc.onfachain.com", "wss://ws.onfa.io", "wss://ws.onfachain.com"],
   "faucets": [],
