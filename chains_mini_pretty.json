@@ -1724,9 +1724,9 @@
     "symbol": "HSK",
     "decimals": 18
   },
-  "rpc": ["https://hashkeychain-testnet.alt.technology"],
+  "rpc": ["https://testnet.hsk.xyz"],
   "faucets": [],
-  "infoURL": "https://hashkey.cloud"
+  "infoURL": "https://hashkeychain.net"
 }, {
   "name": "iExec Sidechain",
   "chainId": 134,
@@ -7981,6 +7981,19 @@
   "faucets": ["https://faucet.elysiumchain.tech"],
   "infoURL": "https://elysiumchain.tech/"
 }, {
+  "name": "BIE",
+  "chainId": 1342,
+  "shortName": "bie",
+  "networkId": 1342,
+  "nativeCurrency": {
+    "name": "BIE",
+    "symbol": "BIE",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.bie.ai", "https://api.bie.ai"],
+  "faucets": ["https://app.bie.ai/faucet"],
+  "infoURL": "https://bie.ai"
+}, {
   "name": "Blitz Subnet",
   "chainId": 1343,
   "shortName": "blitz",
@@ -10060,6 +10073,19 @@
   "rpc": ["https://msc-rpc.movoscan.com", "https://msc-rpc.movochain.org", "https://msc-rpc.movoswap.com"],
   "faucets": [],
   "infoURL": "https://movo.uk"
+}, {
+  "name": "MFX Network",
+  "chainId": 2064,
+  "shortName": "mfx",
+  "networkId": 2064,
+  "nativeCurrency": {
+    "name": "MFX",
+    "symbol": "MFX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.mfx.network/rpc"],
+  "faucets": [],
+  "infoURL": "https://docs.mfx.network/integration.html"
 }, {
   "name": "Metacces Mainnet",
   "chainId": 2071,
@@ -13480,17 +13506,17 @@
   "faucets": ["https://citrea.xyz/faucet"],
   "infoURL": "https://citrea.xyz"
 }, {
-  "name": "Seismic devnet",
+  "name": "Seismic Testnet",
   "chainId": 5124,
-  "shortName": "seismic-devnet",
+  "shortName": "seismic-testnet",
   "networkId": 5124,
   "nativeCurrency": {
     "name": "Seismic Ether",
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://node-2.seismicdev.net/rpc"],
-  "faucets": ["https://faucet-2.seismicdev.net/"],
+  "rpc": ["https://gcp-1.seismictest.net/rpc", "https://gcp-2.seismictest.net/rpc", "wss://gcp-1.seismictest.net/ws", "wss://gcp-2.seismictest.net/ws"],
+  "faucets": ["https://faucet.seismictest.net"],
   "infoURL": "https://seismic.systems"
 }, {
   "name": "Moca Chain Testnet",
@@ -15793,6 +15819,32 @@
   "rpc": ["https://rpc.blocktonscan.com/"],
   "faucets": ["https://faucet.blocktonscan.com/"],
   "infoURL": "https://blocktoncoin.com"
+}, {
+  "name": "StableNet Mainnet",
+  "chainId": 8282,
+  "shortName": "stablenet",
+  "networkId": 8282,
+  "nativeCurrency": {
+    "name": "WKRC",
+    "symbol": "WKRC",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://stablenet.network"
+}, {
+  "name": "StableNet Testnet",
+  "chainId": 8283,
+  "shortName": "stablenet-testnet",
+  "networkId": 8283,
+  "nativeCurrency": {
+    "name": "WKRC",
+    "symbol": "WKRC",
+    "decimals": 18
+  },
+  "rpc": ["https://api.test.stablenet.network", "wss://ws.test.stablenet.network"],
+  "faucets": ["https://faucet.stablenet.network"],
+  "infoURL": "https://stablenet.network"
 }, {
   "name": "KorthoTest",
   "chainId": 8285,
@@ -19914,6 +19966,32 @@
   "rpc": ["https://qpn.svcs.ferrumnetwork.io"],
   "faucets": [],
   "infoURL": "https://ferrum.network"
+}, {
+  "name": "Integra",
+  "chainId": 26217,
+  "shortName": "integra",
+  "networkId": 26217,
+  "nativeCurrency": {
+    "name": "Integra",
+    "symbol": "IRL",
+    "decimals": 18
+  },
+  "rpc": ["https://evm.integralayer.com"],
+  "faucets": [],
+  "infoURL": "https://integralayer.com"
+}, {
+  "name": "Integra Testnet Ormos",
+  "chainId": 26218,
+  "shortName": "integra-testnet",
+  "networkId": 26218,
+  "nativeCurrency": {
+    "name": "Integra",
+    "symbol": "IRL",
+    "decimals": 18
+  },
+  "rpc": ["https://ormos.integralayer.com/rpc"],
+  "faucets": [],
+  "infoURL": "https://integralayer.com"
 }, {
   "name": "DucatusX Testnet",
   "chainId": 26482,
@@ -25869,6 +25947,19 @@
   "faucets": [],
   "infoURL": "https://litprotocol.com"
 }, {
+  "name": "mfenx",
+  "chainId": 177155,
+  "shortName": "mfenx",
+  "networkId": 177155,
+  "nativeCurrency": {
+    "name": "JULIAN",
+    "symbol": "JULIAN",
+    "decimals": 18
+  },
+  "rpc": ["https://indexer.mfenx.com/rpc"],
+  "faucets": [],
+  "infoURL": "https://mfenx.com/power-house"
+}, {
   "name": "Transparency Solution",
   "chainId": 179170,
   "shortName": "clts",
@@ -26739,6 +26830,19 @@
   "rpc": ["https://rpctest.egonscan.com"],
   "faucets": ["https://faucet.egonscan.com"],
   "infoURL": "https://egonscan.com"
+}, {
+  "name": "Datachain Rope",
+  "chainId": 271828,
+  "shortName": "datachain",
+  "networkId": 271828,
+  "nativeCurrency": {
+    "name": "DC FAT",
+    "symbol": "FAT",
+    "decimals": 18
+  },
+  "rpc": ["https://erpc.datachain.network", "wss://ws.datachain.network", "https://erpc.rope.network", "wss://ws.rope.network"],
+  "faucets": ["https://faucet.datachain.network"],
+  "infoURL": "https://datachain.network"
 }, {
   "name": "Nxy Area 51",
   "chainId": 272247,
@@ -31355,18 +31459,44 @@
   "faucets": [],
   "infoURL": "https://gather.network"
 }, {
-  "name": "Asset Hub",
+  "name": "Polkadot Testnet",
+  "chainId": 420420417,
+  "shortName": "pas",
+  "networkId": 420420417,
+  "nativeCurrency": {
+    "name": "PAS",
+    "symbol": "PAS",
+    "decimals": 18
+  },
+  "rpc": ["https://services.polkadothub-rpc.com/testnet", "wss://services.polkadothub-rpc.com/testnet", "https://eth-rpc-testnet.polkadot.io", "wss://eth-rpc-testnet.polkadot.io"],
+  "faucets": ["https://faucet.polkadot.io/"],
+  "infoURL": "https://polkadot.com"
+}, {
+  "name": "Kusama",
+  "chainId": 420420418,
+  "shortName": "ksm",
+  "networkId": 420420418,
+  "nativeCurrency": {
+    "name": "KSM",
+    "symbol": "KSM",
+    "decimals": 18
+  },
+  "rpc": ["https://eth-rpc-kusama.polkadot.io", "wss://eth-rpc-kusama.polkadot.io"],
+  "faucets": [],
+  "infoURL": "https://polkadot.com"
+}, {
+  "name": "Polkadot",
   "chainId": 420420419,
-  "shortName": "AH",
+  "shortName": "dot",
   "networkId": 420420419,
   "nativeCurrency": {
     "name": "DOT",
     "symbol": "DOT",
     "decimals": 18
   },
-  "rpc": ["https://asset-hub-eth-rpc.polkadot.io"],
+  "rpc": ["https://services.polkadothub-rpc.com/mainnet", "wss://services.polkadothub-rpc.com/mainnet", "https://eth-rpc.polkadot.io", "wss://eth-rpc.polkadot.io"],
   "faucets": [],
-  "infoURL": "https://polkadot.network"
+  "infoURL": "https://polkadot.com"
 }, {
   "name": "Westend Asset Hub",
   "chainId": 420420421,
@@ -31383,15 +31513,15 @@
 }, {
   "name": "Paseo PassetHub",
   "chainId": 420420422,
-  "shortName": "pas",
+  "shortName": "pash",
   "networkId": 420420422,
   "nativeCurrency": {
     "name": "PAS",
     "symbol": "PAS",
     "decimals": 18
   },
-  "rpc": ["https://testnet-passet-hub-eth-rpc.polkadot.io"],
-  "faucets": ["https://faucet.polkadot.io/?parachain=1111"],
+  "rpc": [],
+  "faucets": [],
   "infoURL": "https://polkadot.network"
 }, {
   "name": "Deprecated SKALE Europa Hub Testnet",
@@ -31497,6 +31627,19 @@
   "rpc": ["https://rpc.ankr.com/tron_jsonrpc", "https://api.trongrid.io/jsonrpc"],
   "faucets": [],
   "infoURL": "https://tron.network"
+}, {
+  "name": "Tau Testnet",
+  "chainId": 737998412,
+  "shortName": "tau-testnet",
+  "networkId": 737998412,
+  "nativeCurrency": {
+    "name": "TAU",
+    "symbol": "TAU",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.tau.gateway.fm"],
+  "faucets": ["https://faucet.tau.gateway.fm"],
+  "infoURL": "https://presto.gateway.fm/rollups/8bd8406f-a64f-484f-b299-046dd5f24a0f"
 }, {
   "name": "Ancient8",
   "chainId": 888888888,

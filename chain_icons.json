@@ -47,6 +47,14 @@
     "format": "png"
   }]
 }, {
+  "name": "datachain",
+  "icons": [{
+    "url": "ipfs://bafybeibfkitcey5cpevavib36dv2rxefszbpcxdibyjupizprhuadblccy",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "qchain",
   "icons": [{
     "url": "ipfs://QmZESsg3P8cimYjibkD8w1T8DgszAHcKn7UReC8FWbfDGz",
@@ -1383,6 +1391,14 @@
     "format": "png"
   }]
 }, {
+  "name": "polkadot-testnet",
+  "icons": [{
+    "url": "ipfs://bafkreia7ob4rekmtvjryghgcvzaeogbnal6ka7ld4ry6k4o27adacry4fm",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "xphere",
   "icons": [{
     "url": "ipfs://QmfUV9PqF7JxuUAYaBHh6YJ2ChCdDVobTwDibxQuPMUmPq",
@@ -2375,6 +2391,14 @@
     "format": "svg"
   }]
 }, {
+  "name": "bie",
+  "icons": [{
+    "url": "ipfs://bafkreieqvjhjcwwz3m4r6hbiphst5zodbtou45gwkqlhh7uoh3vl5tkfem",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "kaspaclassic",
   "icons": [{
     "url": "ipfs://QmNMuNBwg9opKvsnrDaoYBP743LeddeooQupVYjpBXf7d7",
@@ -3105,9 +3129,9 @@
 }, {
   "name": "dilithium3",
   "icons": [{
-    "url": "ipfs://QmUaxaAaK6Y1QVtd7vEpXCoVXqNgPhKkgVJiVt6caw3Edj",
-    "width": 500,
-    "height": 500,
+    "url": "ipfs://QmRWav2UtqKXi4kCL2qC69SKxFbzhLQ75iwbbCcPDPxooC",
+    "width": 432,
+    "height": 432,
     "format": "png"
   }]
 }, {
@@ -4090,6 +4114,14 @@
     "url": "ipfs://QmV4f9byENNduHgLi8o1pC1sBNe3QAege2NnFkqGkTKojT",
     "width": 1000,
     "height": 1000,
+    "format": "png"
+  }]
+}, {
+  "name": "polkadot",
+  "icons": [{
+    "url": "ipfs://bafkreif7noml4aexpj4v5p5os3iexlscdfemuiustuipf3wg34vnjekeuy",
+    "width": 596,
+    "height": 596,
     "format": "png"
   }]
 }, {
@@ -5378,6 +5410,14 @@
     "url": "ipfs://QmRAGPFhvQiXgoJkui7WHajpKctGFrJNhHqzYdwcWt5V3Z",
     "width": 1024,
     "height": 1024,
+    "format": "png"
+  }]
+}, {
+  "name": "tau",
+  "icons": [{
+    "url": "ipfs://bafybeighctebzusfrmvuahcswjrseyno3eaetu4oskwcu6ubivd7c7elqa",
+    "width": 280,
+    "height": 360,
     "format": "png"
   }]
 }, {
@@ -7445,6 +7485,14 @@
     "format": "png"
   }]
 }, {
+  "name": "mfx",
+  "icons": [{
+    "url": "ipfs://QmYtUimyqHkkFxYdbXXRbUqNg2VLPUg6Uu2C2nmFW81ZMxj",
+    "width": 551,
+    "height": 540,
+    "format": "png"
+  }]
+}, {
   "name": "zkcandy",
   "icons": [{
     "url": "ipfs://bafkreib5jsvl6kxn2qvv4giag3l3e54d2wolo2lqbgkhivxu4cpjzi77eq",
@@ -7578,6 +7626,14 @@
     "url": "ipfs://QmNUmWC7jNEBcTs6ZqkrQ5vMAQG8qjq7n3FcZnXvJZLoQ9",
     "width": 301,
     "height": 302,
+    "format": "png"
+  }]
+}, {
+  "name": "kusama",
+  "icons": [{
+    "url": "ipfs://bafkreideegtbsvtbmhqryd2zwwba4gjfnjgukj7bjhagwcmobhaeejw7bi",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -8586,6 +8642,14 @@
     "url": "ipfs://bafkreiczmtj47hwgmmtsy3xylhswu4q6rphpt42hznv37shjiaxsx3uqde",
     "width": 128,
     "height": 128,
+    "format": "png"
+  }]
+}, {
+  "name": "Cypherium",
+  "icons": [{
+    "url": "ipfs://bafkreiavnkwk6w3nwtu2c4cgbj5etjy27b7mbvycqgftyyhff2jzxh47ne",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
