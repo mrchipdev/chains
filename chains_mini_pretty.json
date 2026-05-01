@@ -32397,11 +32397,11 @@
 }, {
   "name": "ONFA Chain Testnet",
   "chainId": 8691942025,
-  "shortName": "onfachain-testnet",
+  "shortName": "onfatestnet",
   "networkId": 8691942025,
   "nativeCurrency": {
     "name": "ONFA Coin",
-    "symbol": "OFC",
+    "symbol": "OFCT",
     "decimals": 18
   },
   "rpc": ["https://rpc-testnet.onfachain.com", "https://rpc-testnet.onfachain.net", "wss://ws-testnet.onfachain.com", "wss://ws-testnet.onfachain.net"],
