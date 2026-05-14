@@ -3783,6 +3783,14 @@
     "format": "png"
   }]
 }, {
+  "name": "sentrix",
+  "icons": [{
+    "url": "ipfs://QmRpzcXkEYAX4p7j7Qy9AdQdFhFH47WpGZKCohKM2DmYdy",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "fenine",
   "icons": [{
     "url": "ipfs://bafybeihcjllmkljni4jvveg4evgizmknisy4jyy3t3teuyzx6vypobrygm",
@@ -8251,6 +8259,14 @@
     "width": 225,
     "height": 225,
     "format": "png"
+  }]
+}, {
+  "name": "megaeth",
+  "icons": [{
+    "url": "ipfs://bafkreievhokf2f4qzuim42m7ldf2w7mj73vdav52vtlhxek52gczaqcb6e",
+    "width": 786,
+    "height": 786,
+    "format": "jpg"
   }]
 }, {
   "name": "skate",
